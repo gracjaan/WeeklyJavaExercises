@@ -1,0 +1,18 @@
+    _   _  _ _____      _____ ___  ___   __      _____ ___ _  __   ____
+   /_\ | \| / __\ \    / / __| _ \/ __|  \ \    / / __| __| |/ /  |__ /
+  / _ \| .` \__ \\ \/\/ /| _||   /\__ \   \ \/\/ /| _|| _|| ' <    |_ \
+ /_/ \_\_|\_|___/ \_/\_/ |___|_|_\|___/    \_/\_/ |___|___|_|\_\  |___/
+
+Your name(s):
+- Gracjan Chmielnicki
+- Tom Hansult
+
+Please submit your textual answers to the following questions in this file:
+- P-3.1
+- We use INITIAL to initialize password for the fisrt time, since we want to avoid password being null
+- It is public, because wa want other classess to access this constant
+- P-3.14
+- After further improving the tests to maximize coverage, the test package has been covered by 100%, bill & hotel by 75% so the least coverage amongst all. HotelTUI and StrongChecker are examples of classes that have been covered by 0%, this is because we did not develop test functions that cover these classes.
+- P-3.15
+- We receive an AssertionError. Assertions are useful to make sure that certain preconditions are respected and thus guarantuee a safe execution of the program.
+

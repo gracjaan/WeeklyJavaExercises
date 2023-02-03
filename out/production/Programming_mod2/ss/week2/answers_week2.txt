@@ -1,0 +1,16 @@
+    _   _  _ _____      _____ ___  ___  __      _____ ___ _  __  ___
+   /_\ | \| / __\ \    / / __| _ \/ __| \ \    / / __| __| |/ / |_  )
+  / _ \| .` \__ \\ \/\/ /| _||   /\__ \  \ \/\/ /| _|| _|| ' <   / /
+ /_/ \_\_|\_|___/ \_/\_/ |___|_|_\|___/   \_/\_/ |___|___|_|\_\ /___|
+
+Your name(s):
+- Tom Hansult
+- Gracjan Chmielnicki
+
+Please submit your textual answers to the following questions in this file:
+- It should support the following queries (as defined in Week 1's exercise): "OFF", "LOW", "MEDIUM", "HIGH" and the commands "NEXT", "HELP", ("EXIT")
+- The String class is located in the Java.Lang package. There are 15 different constructors, they differ in the arguments that you specify.
+- There are several String factory methods that produce new strings e.g. String replace (String oldstring, String newstring) or String (StringBuilder builder)
+- Instead of compiling to the usual console, a JUnit interface is opened, where all the test cases can be inspected. With the stub implementatoin the test cases fail.
+- JavaDoc can be very useful in helping others understand your code and to help people that contribute to  your code understand requirements of certain methods and objects.
+
